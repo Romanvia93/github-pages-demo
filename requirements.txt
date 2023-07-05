@@ -5,3 +5,4 @@ pillow==9.5.0  # used to load image data
 matplotlib==3.7.1 # used to show an image
 nbconvert==7.6.0  # used to convert a notebook to (e.g.) an HTML file
 ipykernel==6.23.3  # used to set a notebook environment
+jupyter_contrib_nbextensions
